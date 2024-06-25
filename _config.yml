@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Roel Bos"
+title                    : "Roel J. Bos"
 title_separator          : "-"
-name                     : &name "Roel Bos"
+name                     : &name "Roel J. Bos"
 description              : &description "personal description"
 url                      : https://RoelJBos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "RoelJBos/RoelJBos.github.io"
 author:
   # Biographic information
   avatar           : "RoelBos_110222_0003_website.jpg"
-  name             : "Roel Bos"
+  name             : "Roel J. Bos"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate Politics"
   #location         : "Earth"
