@@ -7,10 +7,8 @@ author_profile: true
 
 **Working Papers**
 
-Policy Development and Competitive Obstruction
+Interest Group Influence on Policy Proposals and Passage (job market paper)
 
 Legislative Capacity and Informational Lobbying
-
-**In Progress**
 
 Electoral Competition into Collective Policymaking (with Gleason Judd)
