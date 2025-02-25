@@ -17,6 +17,10 @@ Instructor: German Gieczewski
 	
 **Undergraduate courses** (as teaching assistant)	
 
+POL 396 International Organizations (Spring 2025)
+
+Instructor: James Vreeland
+
 POL 220	American Politics (Fall 2024)
 
 Instructor: Sarah Staszak
